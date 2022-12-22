@@ -1,0 +1,26 @@
+! Title: Enhanced-URL-Tracking-Filter 
+! Description: Enhanced tracking parameters remover for AdGuard. Removes tracking parameters for Google and Amazon that are not removed if you use only the official list. Link for the official list: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt 
+! Homepage: https://raw.githubusercontent.com/MartinLoerchdelaRosa/Enhanced-URL-Tracking-Filter/main/Enhanced-URL-Tracking-Filter.txt
+google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius: 24px !important; box-shadow: 0 2px 5px 1px rgba(64,60,67,.16) !important; }
+||amazon.*$removeparam=psc
+||amazon.*$removeparam=ref_
+||api-hotjar.com^
+||google.com/*$removeparam=hl
+||google.com/*$removeparam=ictx
+||google.com/*$removeparam=sa
+||google.com/*$removeparam=ved
+||google.*/search$removeparam=client
+||google.*/search$removeparam=ct
+||google.*/search$removeparam=dpr
+||google.*/search$removeparam=ei
+||google.*/search$removeparam=google_abuse
+||google.*/search$removeparam=hl
+||google.*/search$removeparam=oi
+||google.*/search$removeparam=sclient
+||google.*/search$removeparam=si
+||google.*/search$removeparam=ved
+||hotjar-analytics.com^
+||i.ytimg.com/generate_204
+||youtube.com/api/stats/
+||youtube.com/generate_204
+
