@@ -22,6 +22,7 @@ google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius:
 ||google.*/search$removeparam=ei
 ||google.*/search$removeparam=google_abuse
 ||google.*/search$removeparam=hl
+||google.*/search$removeparam=ip
 ||google.*/search$removeparam=oi
 ||google.*/search$removeparam=prmd
 ||google.*/search$removeparam=sclient
