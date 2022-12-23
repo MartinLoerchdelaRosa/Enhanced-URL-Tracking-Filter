@@ -9,7 +9,6 @@ google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius:
 ||google.com/*$removeparam=cd
 ||google.com/*$removeparam=hl
 ||google.com/*$removeparam=ictx
-||google.com/*$removeparam=prmd
 ||google.com/*$removeparam=psig
 ||google.com/*$removeparam=sa
 ||google.com/*$removeparam=source
@@ -23,6 +22,7 @@ google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius:
 ||google.*/search$removeparam=google_abuse
 ||google.*/search$removeparam=hl
 ||google.*/search$removeparam=oi
+||google.*/search$removeparam=prmd
 ||google.*/search$removeparam=sclient
 ||google.*/search$removeparam=si
 ||google.*/search$removeparam=ved
