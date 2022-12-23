@@ -18,6 +18,6 @@ https://raw.githubusercontent.com/MartinLoerchdelaRosa/Enhanced-URL-Tracking-Fil
 ```
 https://github.com/Rob--W/dont-track-me-google
 ```
-You need to install this, otherwise the visit button on the images tab would give you a 404 error meassage when clicking on it. This is caused due to the remvoed tracking parameters of Google´s redirect tracking url when you are using this list. Without tracking parameters Google prevents you from using the visit button. Fortunately you can do a workaround with this extension. It goes directly to the requested url and completly get´s rid of google´s redirect links. 
+You need to install this, otherwise the visit button on the images tab would give you a 404 error meassage when clicking on it. This is caused due to the removed tracking parameters of Google´s redirect tracking url when you are using this list. Without tracking parameters Google prevents you from using the visit button. Fortunately, you can do a workaround with this extension. It goes directly to the requested url and completly get´s rid of the google´s redirect links.
 
 The 404 eroor meassage: ```404. That’s an error. The requested URL /url was not found on this server. That’s all we know.```
