@@ -22,4 +22,4 @@ You need to install this, otherwise the "Visit" button on the "Images" tab will 
 
 Translated with www.DeepL.com/Translator (free version)
 
-The 404 eroor meassage: ```404. That’s an error. The requested URL /url was not found on this server. That’s all we know.```
+The 404 error meassage: ```404. That’s an error. The requested URL /url was not found on this server. That’s all we know.```
