@@ -7,6 +7,7 @@ google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius:
 ||amazon.*$removeparam=ref_
 ||api-hotjar.com^
 ||google.com/*$removeparam=cd
+||google.com/*$removeparam=ddlx
 ||google.com/*$removeparam=hl
 ||google.com/*$removeparam=ictx
 ||google.com/*$removeparam=psig
