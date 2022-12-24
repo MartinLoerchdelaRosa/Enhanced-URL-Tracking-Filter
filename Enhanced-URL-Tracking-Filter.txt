@@ -33,5 +33,6 @@ google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius:
 ||google.*/search$removeparam=ved
 ||hotjar-analytics.com^
 ||i.ytimg.com/generate_204
+||rasenflaeche.de^
 ||youtube.com/api/stats/
 ||youtube.com/generate_204
