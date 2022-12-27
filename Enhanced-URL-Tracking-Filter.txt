@@ -29,7 +29,6 @@ google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius:
 ||google.*/search$removeparam=prmd
 ||google.*/search$removeparam=sclient
 ||google.*/search$removeparam=sfr
-||google.*/search$removeparam=si
 ||google.*/search$removeparam=ved
 ||hotjar-analytics.com^
 ||i.ytimg.com/generate_204
