@@ -23,6 +23,7 @@ google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius:
 ||google.*/search$removeparam=bih
 ||google.*/search$removeparam=biw
 ||google.*/search$removeparam=client
+||google.*/search$removeparam=cshid
 ||google.*/search$removeparam=ct
 ||google.*/search$removeparam=dpr
 ||google.*/search$removeparam=ei
