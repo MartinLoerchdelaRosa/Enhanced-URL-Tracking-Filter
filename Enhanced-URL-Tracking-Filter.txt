@@ -42,3 +42,6 @@ google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius:
 ||rasenflaeche.de^
 ||youtube.com/api/stats/
 ||*/generate_204$domain=youtube.com
+! Experimental
+||jnn-pa.googleapis.com^
+
