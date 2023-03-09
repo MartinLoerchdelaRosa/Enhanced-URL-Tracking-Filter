@@ -6,6 +6,7 @@ google.com#@$#.o6juZc { border: 1px solid transparent !important; border-radius:
 ||amazon.*$removeparam=psc
 ||amazon.*$removeparam=ref_
 ||api-hotjar.com^
+||appmetrica.yandex.ru^
 ||google.com/*$removeparam=cad
 ||google.com/*$removeparam=cd
 ||google.com/*$removeparam=csf
